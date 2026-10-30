@@ -34,3 +34,10 @@ About This Portfolio
 Each project includes its purpose, the tools used, troubleshooting steps, lessons learned, and future improvements.
 
 I update this portfolio as I continue learning and building new projects.
+
+## Certifications & Training
+
+### IT Support Foundations | ServiceDesk Simulator
+- **Completed:** October 2026
+- **Training:** Hands-on IT support simulations and troubleshooting practice
+- **Credential:** [View verified credential](https://servicedesk-simulator.com/verify/cW7TOClv9GZKuqOTqJcsMP8ZUiB2/it_support_foundations)
